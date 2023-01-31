@@ -24,9 +24,10 @@ main{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .add-task{
-    
-    margin-left: 20%;
+
+    /* margin-left: 20%; */
 }
+
 .task{
     border-radius: 10%;
     background-color: rgb(7, 176, 255);
@@ -36,7 +37,7 @@ main{
 
 .section{
     border-radius: 10%;
-    background-color: white);
+    background-color: white;
     padding: 5px;
     color: lightgrey;
     border: solid lightgrey;
@@ -44,16 +45,16 @@ main{
 
 .newtask{
     margin-top: 80px;
-    margin-left: 20%;
+
 
 }
 
 .pt-task{
-    padding-top: 50px;
+    margin-top: 50px;
 }
 
 .row-task{
-    margin-left: 20%;
+    /* margin-left: 20%; */
 }
 
 .edizional{
