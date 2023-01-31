@@ -1,4 +1,22 @@
+* {
 
+
+}
+body{
+    margin: 0 auto;
+    background-color: rgb(242, 242, 242);
+}
+header{
+    margin-bottom: 50px;
+    background-color: white;
+}
+
+main{
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+}
 
 
 .title{
@@ -6,7 +24,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .add-task{
-    margin-top: 80px;
+    
     margin-left: 20%;
 }
 .task{
