@@ -23,3 +23,57 @@
     color: lightgrey;
     border: solid lightgrey;
 }
+
+.newtask{
+    margin-top: 80px;
+    margin-left: 20%;
+
+}
+
+.pt-task{
+    padding-top: 50px;
+}
+
+.row-task{
+    margin-left: 20%;
+}
+
+.edizional{
+    border-radius: 10%;
+    background-color: rgb(7, 176, 255);
+    padding: 5px;
+    color: white;
+}
+.q1goals{
+    border-radius: 10%;
+    background-color: rgb(201, 7, 255);
+    padding: 5px;
+    color: white;
+}
+.recruiting{
+    border-radius: 10%;
+    background-color: rgb(49, 130, 121);
+    padding: 5px;
+    color: white;
+}
+
+.mobiile{
+    border-radius: 10%;
+    background-color: rgb(220, 115, 17);
+    padding: 5px;
+    color: white;
+}
+ 
+.website{
+    border-radius: 10%;
+    background-color: rgb(237, 126, 217);
+    padding: 5px;
+    color: white;
+}
+
+.sales{
+    border-radius: 10%;
+    background-color: rgb(118, 144, 89);
+    padding: 5px;
+    color: white;
+}
